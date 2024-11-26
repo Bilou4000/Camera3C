@@ -5,8 +5,9 @@ A group project by **Claire Benes** and **Omid Marandi**
 ---
 
 ## :bookmark_tabs: Game Deign Document
-All the details and design considerations for **Camera 3D** can be found in our [Game Design Document](https://docs.google.com/document/d/1VEe3RTZxg4aAnKB3jdCUK_ackIjNR_NcwKgda1iX8uk/edit?usp=sharing).
-This document contains the game references, camera result, side by side video comparisons and controls of cameras.
+All the details and design considerations for **Camera 3D** can be found in our [Folder](https://drive.google.com/drive/folders/1pkG4Wm0RkS6aRMhSW7dyvtfUOiiRS2J9).
+This folder has the [Game Design Document](https://docs.google.com/document/d/1VEe3RTZxg4aAnKB3jdCUK_ackIjNR_NcwKgda1iX8uk/edit?usp=sharing) and all needed videos.
+The document contains the game references, camera result, side by side video comparisons and controls of cameras.
 
 ---
 
